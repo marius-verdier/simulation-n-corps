@@ -2,6 +2,8 @@
 
 This project contains two implementations of an N-body simulation, which models the dynamics of particles in space under gravitational forces. It includes both a Brute Force algorithm and a more efficient Barnes-Hut algorithm.
 
+Some results are presents in the results folder.
+
 ## Features
 
 - **Brute Force Simulation**: Directly computes gravitational interactions between every pair of bodies.
